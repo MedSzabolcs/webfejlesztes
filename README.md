@@ -17,7 +17,7 @@ Az egész weboldalon Space Mono font típust használtam a Google Fonts oldalró
 (https://fonts.google.com/specimen/Space+Mono?query=space)
 
 6. Másolt kódok:
-Nem mósoltam kódot sehonnan
+Nem másoltam kódot
 
 8. Képek és tartalom forrásai:
 https://hu.wikipedia.org/wiki/Nemzetk%C3%B6zi_%C5%B0r%C3%A1llom%C3%A1s
