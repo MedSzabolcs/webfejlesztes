@@ -2,7 +2,7 @@
 Medgyesi Szabolcs
 
 2.Az oldal URL címe:
-
+https://medszabolcs.github.io/webfejlesztes/
 
 
 3.A weboldal témája:
@@ -16,7 +16,7 @@ JavaScript kódot az "ISS túra" menüfül alatt használok. Lényege, hogy kisz
 Az egész weboldalon Space Mono font típust használtam a Google Fonts oldalról
 (https://fonts.google.com/specimen/Space+Mono?query=space)
 
-6.
+6.Nem másoltam kódokat
 
 7. Képek és tartalom forrásai:
 https://hu.wikipedia.org/wiki/Nemzetk%C3%B6zi_%C5%B0r%C3%A1llom%C3%A1s
