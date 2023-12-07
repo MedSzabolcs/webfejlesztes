@@ -5,6 +5,7 @@ A webfejlesztés tantárgy beadandója
 Medgyesi Szabolcs
 
 2.Az oldal URL címe:
+https://medszabolcs.github.io/webfejlesztes/
 
 3.A weboldal témája:
 A weboldalam a Nemzetközi Űrállomásról készült. Többek között megtalálható az állomás története, felépítése és látogathatósága az oldalon.
